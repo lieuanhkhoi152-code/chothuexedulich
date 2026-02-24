@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://chothuexedulich.vercel.app/sitemap.xml
+Sitemap: https://dulichbinhduong.vercel.app/sitemap.xml
